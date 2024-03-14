@@ -9,6 +9,10 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DeqaHussein?tab=repositories)
 
 - ### Yue Moua
+![image](https://github.com/Bloodhound-Brigade/.github/assets/147285396/f75ab6a1-9809-4fee-9268-933d6220cf99)
+
+Cybersecurity professional with a keen eye for threat detection and mitigation, ensuring robust protection for digital assets and networks.
+
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yue-moua-9b51601b8/)
 &nbsp;
